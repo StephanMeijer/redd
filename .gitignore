@@ -8,4 +8,8 @@
 /spec/reports/
 /spec/examples.txt
 /tmp/
+<<<<<<< HEAD
 .idea/
+=======
+.idea/
+>>>>>>> 31c639e93eb65fd1f0d44c7200bbbc6a63addad8
