@@ -1,13 +1,13 @@
 <div align="center">
   <p>
     <!-- Redd -->
-    <img src="https://raw.githubusercontent.com/avinashbot/redd/master/logo.png" width="500"><br>
+    <img src="https://raw.githubusercontent.com/StephanMeijer/redd/master/logo.png" width="500"><br>
     <!-- Badges -->
     <a href="https://rubygems.org/gems/redd">
       <img src="http://img.shields.io/gem/v/redd.svg?style=flat-square" alt="Gem Version">
     </a>
     <a href="https://travis-ci.org/avinashbot/redd">
-      <img src="http://img.shields.io/travis/avinashbot/redd.svg?style=flat-square" alt="Build Status">
+      <img src="http://img.shields.io/travis/StephanMeijer/redd.svg?style=flat-square" alt="Build Status">
     </a>
     <a href="https://rubygems.org/gems/redd">
       <img src="http://img.shields.io/gem/dt/redd.svg?style=flat-square" alt="Gem Downloads">
@@ -21,6 +21,11 @@
 </div>
 
 ---
+### Install
+
+Gemfile: `gem 'redd', github: 'StephanMeijer/redd'`
+
+Global: `$ gem specific_install -l https://github.com/StephanMeijer/redd.git`
 
 ### Features
 
@@ -105,8 +110,7 @@ Check out the [**official subreddit**](https://www.reddit.com/r/Redd) or raise a
 Take a look at  [**CONTRIBUTING.md**](https://github.com/avinashbot/redd/blob/master/CONTRIBUTING.md).
 
 #### How can I contact you?
-[Reddit](https://www.reddit.com/message/compose/?to=Mustermind) /
-[Email](mailto:avinash@dwarapu.me)
+[Email](mailto:me@stephanmeijer.com)
 
 ---
 
